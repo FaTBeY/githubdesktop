@@ -1,2 +1,2 @@
 # githubdesktop
-Github Desktop
+Github Desktop https://www.githubdesktop.com
